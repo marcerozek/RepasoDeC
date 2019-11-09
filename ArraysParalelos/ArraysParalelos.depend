@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554988331 source:d:\### repaso los sabados\arraysparalelos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

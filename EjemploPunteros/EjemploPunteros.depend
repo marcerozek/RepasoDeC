@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1553952380 source:d:\### repaso los sabados\ejemplopunteros\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionespuntero.h"
+
+1553948977 d:\### repaso los sabados\ejemplopunteros\funcionespuntero.h
+
+1553952192 source:d:\### repaso los sabados\ejemplopunteros\funcionespuntero.c
+

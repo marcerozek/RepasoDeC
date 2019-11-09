@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554381995 source:d:\### repaso los sabados\manejodecadenas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

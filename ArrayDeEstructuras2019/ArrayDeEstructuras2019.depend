@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1556202392 source:d:\### repaso los sabados\arraydeestructuras2019\main.c
+	<stdio.h>
+	<stdlib.h>
+	"producto.h"
+
+1556202354 d:\### repaso los sabados\arraydeestructuras2019\producto.h
+

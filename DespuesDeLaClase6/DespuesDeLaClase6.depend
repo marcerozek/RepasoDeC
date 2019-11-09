@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1554558381 source:d:\### repaso los sabados\despuesdelaclase6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1554426476 d:\### repaso los sabados\despuesdelaclase6\funciones.h
+
+1554552374 source:d:\### repaso los sabados\despuesdelaclase6\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+

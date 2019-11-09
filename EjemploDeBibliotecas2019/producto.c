@@ -1,0 +1,4 @@
+
+
+
+ePersona construirPersona(int idLocalidad);

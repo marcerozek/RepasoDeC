@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1567258463 source:d:\### repaso los sabados\libreriasfunciones2019\libreria.c
+
+1567261988 source:d:\### repaso los sabados\libreriasfunciones2019\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+	"misFunciones.h"
+
+1567258737 d:\### repaso los sabados\libreriasfunciones2019\libreria.h
+
+1567260287 d:\### repaso los sabados\libreriasfunciones2019\misfunciones.h
+
+1567262634 source:d:\### repaso los sabados\libreriasfunciones2019\misfunciones.c
+

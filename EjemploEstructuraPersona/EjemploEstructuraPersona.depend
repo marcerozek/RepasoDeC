@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1556376720 source:d:\### repaso los sabados\ejemploestructurapersona\main.c
+	<stdio.h>
+	<stdlib.h>
+	"localidad.h"
+	"persona.h"
+
+1571490428 source:d:\### repaso los sabados\ejemploestructurapersona\persona.c
+	<stdio.h>
+	<string.h>
+	"persona.h"
+
+1571490201 d:\### repaso los sabados\ejemploestructurapersona\persona.h
+
+1556374988 source:d:\### repaso los sabados\ejemploestructurapersona\localidad.c
+	<stdio.h>
+	<string.h>
+	"localidad.h"
+
+1556371531 d:\### repaso los sabados\ejemploestructurapersona\localidad.h
+
+1571490125 source:d:\### repaso los sabados\ejemploestructurapersona\fecha.c
+

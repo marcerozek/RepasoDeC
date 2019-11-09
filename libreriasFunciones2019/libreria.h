@@ -1,0 +1,5 @@
+#ifndef LIBRERIA_H_INCLUDED
+#define LIBRERIA_H_INCLUDED
+void Saludar();
+
+#endif // LIBRERIA_H_INCLUDED
